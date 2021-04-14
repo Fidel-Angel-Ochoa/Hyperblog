@@ -10,10 +10,10 @@ body
 #container
 {
     width: 40%;
-    padding: 1em;
+    padding: 3em;
     text-align: left;
     border: 1px solid #DDD;
-    margin: 4 auto;
+    margin: 5 auto;
 }
 
 #container h1
